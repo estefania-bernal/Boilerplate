@@ -1,0 +1,29 @@
+* {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background: rgb(255, 205, 228);
+    background: linear-gradient(90deg, rgba(255, 205, 228, 1) 0%, rgba(255, 154, 246, 1) 35%, rgba(255, 242, 143, 1) 72%);
+}
+
+img {
+    width: 300px;
+    display: block;
+    margin: auto;
+    padding: 20px;
+}
+
+a {
+    background-color: rgb(255, 191, 0);
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.imgli {
+    width: 200px;
+    float: left;
+}
